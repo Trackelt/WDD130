@@ -1,0 +1,13 @@
+#hero{
+    width:100%;
+    background-image: url('../../images/20240422_212514.jpg');
+    height: 1500px;
+    background-repeat: no-repeat;
+}
+.footer-card{
+    color:orange;
+    background-color: blue;
+}
+.footer-one h3{
+    color:pink
+}
