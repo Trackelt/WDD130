@@ -1,0 +1,28 @@
+body {
+    background-color: #5ca1d7;
+    text-align: center;   
+}
+
+h1, h2, h3 {
+    color: white;
+    max-width: 600px;
+    margin: 0 auto
+}
+
+#top:hover {
+    color: black
+}
+
+img {
+    width:10%;
+    height:10%
+}
+
+.bottom {
+    color: black
+}
+
+li {
+    max-width: 400px;
+    margin: 0 auto
+}
