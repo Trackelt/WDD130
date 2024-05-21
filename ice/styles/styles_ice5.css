@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+}
+
+.round {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 10px;
+    border-color:black; 
+    margin: 8%;
+    text-align: center;
+}
+
+#main {
+    width: 100%;
+}
