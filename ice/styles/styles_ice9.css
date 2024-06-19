@@ -1,0 +1,45 @@
+
+body{
+    background-color: black;
+}
+.card{
+    width: 250px;
+    margin: 0 auto;
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    border-radius: 5%;
+    overflow: hidden;
+}
+.headerimage{
+    width: 100%;
+    grid-column: 1/4;
+    grid-row: 1/2;
+}
+.awesomearticle{
+    padding: 10%;
+    text-align: center;
+}
+.article{
+    grid-column: 1/4;
+    grid-row: 2/4;
+}
+.article2{
+    padding: 10%;
+    text-align: center;
+    color: blue;
+}
+.article3{
+    padding: 10%;
+    text-align: center;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    grid-column: 1/4;
+    grid-row: 4/5;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
